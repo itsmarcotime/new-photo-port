@@ -111,6 +111,7 @@ const PhotoList = ({ category }) => {
       setCurrentPhoto({...image, index: i})
       setIsModalOpen(true);
     }
+    m
 
     return (
         <div>
